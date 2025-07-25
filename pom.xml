@@ -12,7 +12,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<org.springframework.social-version>1.1.4.RELEASE</org.springframework.social-version>
 		<org.springframework.security.version>5.7.13</org.springframework.security.version>
-		<org.springframework.version>6.1.20</org.springframework.version>
+		<org.springframework.version>6.1.21</org.springframework.version>
 		<jackson.version>2.15.0</jackson.version>
 	</properties>
 
